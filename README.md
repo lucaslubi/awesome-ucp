@@ -56,6 +56,7 @@ A curated list of awesome Universal Commerce Protocol (UCP) resources, tools, an
 - [UCP Demo Playground](https://ucp-demo.web.app) - Community-created playground demo built using Google's guide
 - ✅ [UCP Lighthouse](https://ucp.rest) - Validate UCP & Community payloads. The ultimate OpenAI / ChatGPT Agentic Commerce schema validator to ensure your products are ready for the AI era.
 - ☁️🛠️ [UCP Doctor](https://doctor.awesomeucp.com) - Diagnostic tool for validating Universal Commerce Protocol implementations
+- 🛡️ [Fidacy Trust-Verdict](https://fidacy.com/ucp/extensions/trust-verdict/v1) - Neutral, independently verifiable trust verdict (approve/review/deny) for agent payments. Rides UCP's `signals` as `com.fidacy.trust_verdict`; verify offline with the open-source [@fidacy/verify](https://www.npmjs.com/package/@fidacy/verify).
 
 <br>
 
